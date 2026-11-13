@@ -5,7 +5,7 @@ Every lesson walks you through a process with an **animated diagram**, a **simul
 
 > Created by **Raul** ([@rmctech-ai](https://github.com/rmctech-ai)) · Freelance AI Automation Specialist on the path to Cloud Security.
 > Companion course: [Python Explorer](https://github.com/rmctech-ai/python-explorer).
-> 🏠 Part of **[Raul's Cloud Learning Hub](https://rmctech-ai.github.io/)** · Live course: https://rmctech-ai.github.io/linux-explorer/
+> 🏠 Part of **[Raul's Cloud Learning Hub](https://rmctech-ai.github.io/)** · Live course: https://rmctech-ai.github.io/Linux-Explorer/
 > The Explorer course format is inspired by [Protocol Explorer](https://protocol-explorer-alpha.vercel.app/) by Dilum Sanjaya. All lessons, labs and study tools are my own work.
 
 ![Permissions lesson](docs/screenshots/perm.png)
