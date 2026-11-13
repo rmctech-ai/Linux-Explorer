@@ -3,8 +3,8 @@
 An interactive, step-by-step Linux course for **Cloud, DevOps and Cyber Security** learners.
 Every lesson walks you through a process with an **animated diagram**, a **simulated terminal**, a **command-flow log**, plain-English **analogies**, **memory hooks**, **trigger words**, a **quiz**, and (in 9 lessons) a hands-on **playground challenge**.
 
-> Framework inspired by [Protocol Explorer](https://protocol-explorer-alpha.vercel.app/) by Dilum Sanjaya. Its packet-flow table becomes a **command-flow** table here.
-> Users & groups / permissions visuals inspired by Muhammad Muktar's Linux reels.
+> Created by **Raul** ([@rmctech-ai](https://github.com/rmctech-ai)) · Freelance AI Automation Specialist on the path to Cloud Security.
+> Companion course: [Python Explorer](https://github.com/rmctech-ai/python-explorer).
 
 ![Permissions lesson](docs/screenshots/perm.png)
 
@@ -145,4 +145,4 @@ Scene types: **graph** (nodes + animated flow), **tree** (`items: [[depth, name,
 **Capstone:** Launch an EC2 instance → harden it (L19) → deploy a small app as a systemd service (L14) → automate backups with cron (L20) → ship logs to CloudWatch (L16) → write it up in this repo.
 
 ## License
-MIT. Use it, fork it, teach with it.
+MIT © 2026 Raul (rmctech-ai). Use it, fork it, teach with it.

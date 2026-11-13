@@ -1,4 +1,4 @@
-/* Linux Explorer — blueprint UI inspired by Protocol Explorer */
+/* Linux Explorer — blueprint UI by Raul (rmctech-ai) */
 :root{
   --bg:#eef3fa; --panel:#ffffff; --ink:#0f1b3d; --mute:#5b6b8c; --faint:#a9b6cf;
   --line:#c9d6ea; --grid:rgba(29,91,216,.07); --blue:#1d5bd8; --blue2:#3b82f6; --blueSoft:#e6eefc;
@@ -243,3 +243,8 @@ tr.cur td:first-child{box-shadow:inset 3px 0 0 var(--blue)}
   .xp{min-width:110px}
 }
 @media (max-width:640px){.tbtn,.brand small,.search kbd{display:none}.topbar{gap:10px}}
+
+.by{display:grid;text-decoration:none;line-height:1.25}
+.by span{font-size:9.5px;letter-spacing:.14em;color:var(--mute)}
+.by b{font-size:11.5px;color:var(--blue)}
+@media (max-width:900px){.by{display:none}}
