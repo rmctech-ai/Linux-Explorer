@@ -5,6 +5,7 @@ Every lesson walks you through a process with an **animated diagram**, a **simul
 
 > Created by **Raul** ([@rmctech-ai](https://github.com/rmctech-ai)) · Freelance AI Automation Specialist on the path to Cloud Security.
 > Companion course: [Python Explorer](https://github.com/rmctech-ai/python-explorer).
+> Layout framework inspired by [Protocol Explorer](https://protocol-explorer-alpha.vercel.app/) by Dilum Sanjaya.
 
 ![Permissions lesson](docs/screenshots/perm.png)
 
